@@ -1,0 +1,5 @@
+node_modules
+uploads/multerUploads/*
+!uploads/multerUploads/.gitkeep
+*.sqlite
+dist

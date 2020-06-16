@@ -1,0 +1,3 @@
+web: npm run knex:migrate
+web: npm run knex:seed
+web: npm run start-production
